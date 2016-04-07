@@ -2,4 +2,6 @@
 
 ## Author
 
-Katie Roedersheimer, DevBootCamp
+Katie Roedersheimer, DevBootCamp.
+
+### More information about markdown: http://daringfireball.nrt/projects/markdown
