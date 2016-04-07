@@ -4,4 +4,4 @@
 
 Katie Roedersheimer, DevBootCamp.
 
-### More information about markdown: http://daringfireball.nrt/projects/markdown
+### More information about markdown: http://daringfireball.net/projects/markdown
